@@ -20,8 +20,8 @@ These are the exam objectives you review and understand in order to pass the tes
 * [CNCF Exam Curriculum repository ](https://github.com/cncf/curriculum)
 * [Sign up for Beta Or hit notify ](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
  
-### [ Kubernetes Fundamentals ](https://youtu.be/vS-wXo2qbPs) - (46%)
-1. [Including resources, architecture, APIs, containers, and scheduling](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+### Kubernetes Fundamentals - (46%)
+1. Including resources, architecture, APIs, containers, and scheduling
     - [Kubernetes Architecture explained | Kubernetes Tutorial 15](https://www.youtube.com/watch?v=umXEmn3cMWY)
     - [Kubernetes API Explained](https://www.youtube.com/watch?v=aTFmtac2wCg)
     - [Kubernetes for Beginners - Docker Introduction in 15 Minutes](https://www.youtube.com/watch?v=rmf04ylI2K0)
@@ -30,7 +30,7 @@ These are the exam objectives you review and understand in order to pass the tes
     - [How the Kubernetes scheduler works](https://www.youtube.com/watch?v=rDCWxkvPlAw)
   
 ### Container Orchestration - (22%) 
-1. [Including container orchestration fundamentals, runtime, security, networking, service mesh, and storage](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+1. Including container orchestration fundamentals, runtime, security, networking, service mesh, and storage
   - [Container Orchestration Explained](https://www.youtube.com/watch?v=kBF6Bvth0zw)
   - [OCI, CRI, ??: Making Sense of the Container Runtime Landscape in Kubernetes](https://www.youtube.com/watch?v=RyXL1zOa8Bw)
   - [Container Security Explained](https://www.youtube.com/watch?v=b_euX_M82uI) 
@@ -40,14 +40,14 @@ These are the exam objectives you review and understand in order to pass the tes
 
 ### Cloud Native Architecture - (16%)
 
-1. [Including cloud native architecture fundamentals, autoscaling, serverless, community & governance, personas, and open standards](https://kubernetes.io/docs/concepts/storage/storage-classes/) 
+1. Including cloud native architecture fundamentals, autoscaling, serverless, community & governance, personas, and open standards
   - [What is Cloud Native?](https://www.youtube.com/watch?v=fp9_ubiKqFU)
   - [What is Cloud Native? | Cloud Native Vs Traditional Application](https://www.youtube.com/watch?v=NoFu_rpM7EQ)
   - [Kubernetes cluster autoscaling for beginners](https://www.youtube.com/watch?v=jM36M39MA3I)
   - [What Is Serverless](https://www.youtube.com/watch?v=Fx3ZGy-mbV4)  
 ### Cloud Native Observability - (8%)
 
-1. [Telemetry & observability, Prometheus, and cost management](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
+1. Telemetry & observability, Prometheus, and cost management
  - [How Prometheus Monitoring works | Prometheus Architecture explained](https://www.youtube.com/watch?v=h4Sl21AKiDg) 
  - [Observability vs. APM vs. Monitoring](https://www.youtube.com/watch?v=CAQ_a2-9UOI)
  - [Reducing your Kubernetes Cloud Spend](https://www.youtube.com/watch?v=FhEhi8-Sql4)
@@ -55,7 +55,7 @@ These are the exam objectives you review and understand in order to pass the tes
 
 ### Cloud Native Application Delivery - (8%)
 
-1. [Application delivery fundamentals, GitOps, and CI/CD](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
+1. Application delivery fundamentals, GitOps, and CI/CD
  - [What is GitOps?](https://www.youtube.com/watch?v=hLs4fkhcUmE)
  - [What is GitOps, How GitOps works and Why it's so useful](https://www.youtube.com/watch?v=f5EpcWp0THw)
  - [Introduction to Argo CD : Kubernetes DevOps CI/CD](https://www.youtube.com/watch?v=2WSJF7d8dUg)
