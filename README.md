@@ -22,12 +22,12 @@ These are the exam objectives you review and understand in order to pass the tes
  
 ### Kubernetes Fundamentals - (46%)
 1. Including resources, architecture, APIs, containers, and scheduling
-    - [Kubernetes Architecture explained | Kubernetes Tutorial 15](https://www.youtube.com/watch?v=umXEmn3cMWY)
-    - [Kubernetes API Explained](https://www.youtube.com/watch?v=aTFmtac2wCg)
-    - [Kubernetes for Beginners - Docker Introduction in 15 Minutes](https://www.youtube.com/watch?v=rmf04ylI2K0)
-    - [Containers for Beginners](https://www.youtube.com/watch?v=6gJs0F8V3tM)
-    - [How Does The Kuberenetes Scheduler Work?](https://www.youtube.com/watch?v=8WdYk4oTnrw)
-    - [How the Kubernetes scheduler works](https://www.youtube.com/watch?v=rDCWxkvPlAw)
+  - [Kubernetes Architecture explained | Kubernetes Tutorial 15](https://www.youtube.com/watch?v=umXEmn3cMWY)
+  - [Kubernetes API Explained](https://www.youtube.com/watch?v=aTFmtac2wCg)
+  - [Kubernetes for Beginners - Docker Introduction in 15 Minutes](https://www.youtube.com/watch?v=rmf04ylI2K0)
+  - [Containers for Beginners](https://www.youtube.com/watch?v=6gJs0F8V3tM)
+  - [How Does The Kuberenetes Scheduler Work?](https://www.youtube.com/watch?v=8WdYk4oTnrw)
+  - [How the Kubernetes scheduler works](https://www.youtube.com/watch?v=rDCWxkvPlAw)
   
 ### Container Orchestration - (22%) 
 1. Including container orchestration fundamentals, runtime, security, networking, service mesh, and storage
