@@ -8,7 +8,7 @@ Online resources that will help you prepare for taking the  Kubernetes and Cloud
 
 **Disclaimer**: This is not likely a comprehensive list as the exam will be a moving target with the fast pace of k8s development - please make a pull request if there something wrong, should be added, or updated.
  
-## Other CK exams:
+## Other Kubernetes exams (Walid Shaari):
 - [Certified Kubernetes Security Specialist (CKS)](https://github.com/walidshaari/Certified-Kubernetes-Secuirty-Specialist)
 - [Certified Kubernetes Application Developer (CKAD)](https://github.com/dgkanatsios/CKAD-exercises)
 - [Certified Kubernetes Administrator (CKA)](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
